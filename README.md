@@ -6,7 +6,7 @@
 <!-- ======================================================= -->
 
 # ISOMETRICAL | HYPERION CORE  
-**Versión:** 1.0.0 (Alpha)  
+**Versión:** 1.0.1 (Alpha)  
 **Estado:** En desarrollo activo  
 **Autor:** miguelacaceresrios
 
@@ -14,8 +14,8 @@
 
 ## 1. Descripción General
 
-**ARASAKA CORE** es el sistema de inteligencia central desarrollado por **Isometrical Game Company**.  
-Actúa como el núcleo de control y sincronización para la gestión interna de proyectos, tareas y bots personalizados dentro del entorno privado de la organización.
+**HYPERION CORE** es el sistema de datos e inteligencia central desarrollado.  
+Se presenta como la solucion al desorden dentro del proyecto gestionando y organizando.
 
 El sistema coordina los proyectos activos, registra tareas, mantiene puntajes globales de productividad y sirve como base de comunicación entre el equipo humano y los bots individuales asociados a cada miembro del equipo.
 
