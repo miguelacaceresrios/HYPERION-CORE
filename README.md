@@ -5,7 +5,7 @@
 <!--                      ARASAKA CORE                        -->
 <!-- ======================================================= -->
 
-# ISOMETRICAL | ARASAKA CORE  
+# ISOMETRICAL | HYPERION CORE  
 **Versión:** 1.0.0 (Alpha)  
 **Estado:** En desarrollo activo  
 **Autor:** miguelacaceresrios
