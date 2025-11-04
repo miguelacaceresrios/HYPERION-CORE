@@ -1,0 +1,35 @@
+ARASAKA CORE — INTERNAL USE LICENSE
+Version 1.1.0
+Last updated: 28/10/2025
+Copyright (c) 2025 Isometrical Systems. All rights reserved.
+
+1. OWNERSHIP
+All code, documentation, configurations, and data files included in this repository are the exclusive property of Isometrical Systems. 
+Unauthorized reproduction, distribution, or disclosure of any part of this software is strictly prohibited.
+
+2. AUTHORIZED USE
+Use of this software is restricted to authorized members of Isometrical Systems and its technical collaborators.
+The software is intended solely for internal management, automation, and development operations within the company.
+
+3. CONFIDENTIALITY
+All information handled by this system (projects, members, logs, JSON data, and related content) is considered confidential.
+Users must not share, copy, or expose any part of the system or its data to external entities.
+
+4. MODIFICATIONS AND REDISTRIBUTION
+No modification or redistribution is permitted without prior written approval from the technical leadership of Isometrical Systems.
+All derived works (sub-bots, plugins, or related modules) are considered extensions of Arasaka Core and remain under this license.
+
+5. LIABILITY
+The software is provided "AS IS" without any warranty of any kind. 
+Isometrical Systems shall not be liable for any data loss, damage, or misuse arising from unauthorized use or modification.
+
+6. TERMINATION
+This license remains active while the software is in use within internal environments of Isometrical Systems.
+Upon termination of use or migration, all local copies and data must be securely deleted.
+
+7. CONTACT
+Isometrical Systems — Internal Development Division  
+Responsible: Miguel Ángel Cáceres R.  
+Email (internal): dev@isometrical.local
+
+Any unauthorized use or distribution of Arasaka Core constitutes a direct violation of this license.

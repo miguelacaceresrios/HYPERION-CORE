@@ -1,0 +1,47 @@
+# ============================
+# Hyperion - .gitignore
+# ============================
+
+# Node modules
+node_modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Data and storage
+src/data/*.json
+!src/data/plantilla.json  # Mantener una plantilla de ejemplo si deseas
+
+# Logs
+logs/
+*.log
+log.txt
+
+# Build and temporary files
+dist/
+build/
+.cache/
+.temp/
+.DS_Store
+
+# OS and editor files
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backups or temp exports
+backup/
+*.bak
+*.tmp
+*.old

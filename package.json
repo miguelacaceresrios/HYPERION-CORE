@@ -1,0 +1,20 @@
+{
+  "name": "arasaka-core-bot",
+  "version": "1.0.0",
+  "description": "Bot central ARASAKA CORE de Isometrical",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
